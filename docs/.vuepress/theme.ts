@@ -3,7 +3,7 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://luckyzyx.github.io/LuckyTool/",
+  hostname: "https://luckyzyx.github.io/LuckyTool_Doc/",
 
   author: {
     name: "忆清鸣、luckyzyx",
@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/logo.png",
 
-  repo: "https://github.com/luckyzyx/LuckyTool",
+  repo: "https://github.com/luckyzyx/LuckyTool_Doc",
 
   docsDir: "website/docs/", // 文档在仓库中的目录，默认为根目录
 

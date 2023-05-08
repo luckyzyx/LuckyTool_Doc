@@ -6,7 +6,7 @@ export default defineUserConfig({
   lang: "zh-CN",
   title: "LuckyTool",
 
-  base: "/LuckyTool/",
+  base: "/LuckyTool_Doc/",
 
   locales: {
     "/": {
