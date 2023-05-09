@@ -26,7 +26,7 @@ star: false
 
 **The beta test version is only released for testing in [TG Discussion Group](https://t.me/+F42pfv-c0h4zNDc9)**
 
-### v1.0.0_beta
+### v1.0.0
 
 - [更新] 捐赠名单
 - [添加] 刷新率方案一添加 144Hz
@@ -44,6 +44,28 @@ star: false
 - [添加] 应用分身列表显示系统 APP
 - [添加] 暗色模式列表显示系统 APP
 - [添加] 控制中心时钟冒号样式方案
+- [修复] 远程 ADB 调试 IP 端口异常
+- [添加] 控制中心农历修复模式
+- [添加] 允许长按通知可修改
+- [Update] Donation list
+- [Add] Refresh rate scheme 1 added 144Hz
+- [Fix] The media volume level is not effective
+- [Fix] The clock colon in the status bar is abnormal
+- [Fix] Battery hidden page and notification
+- [Fix] Remove the desktop icon update dot
+- [Fix] System interface mobile data icon
+- [Add] LOG export to add device information
+- [Add] Remove notification management restriction
+- [Fix] Notification management conflicts with battery
+- [Fix] The clock probability of the control center is abnormal
+- [Optimize] Replace 5G switch reflection API
+- [Add] small window list display system APP
+- [Add] Application clone list display system APP
+- [Add] Dark mode list display system APP
+- [Add] Control center clock colon style scheme
+- [Fix] Remote ADB debugging IP port exception
+- [Add] Control Center Lunar Repair Mode
+- [Add] Allow long press notifications to be modifiable
 
 ### v4.4.3
 

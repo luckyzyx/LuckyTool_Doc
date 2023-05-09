@@ -65,7 +65,16 @@ star: false
 
 When using dual-line network speed, the network speed in the status bar control center is 0
 
-## WiFiIcon
+
+## StatusBar Notify
+
+- Remove some notifications
+- Allow long press notifications to be modifiable
+- Remove notification management restrictions
+
+## StatusBar Icon
+
+### WiFiIcon
 
 - remove data arrow
 
@@ -100,7 +109,7 @@ When using dual-line network speed, the network speed in the status bar control 
 - Fix colon
 - Remove date comma
 - Show lunar calendar
-- Fix date display
+- Fix date display width
 
 ### UI Components
 
