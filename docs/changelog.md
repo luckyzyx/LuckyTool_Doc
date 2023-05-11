@@ -26,6 +26,16 @@ star: false
 
 **The beta test version is only released for testing in [TG Discussion Group](https://t.me/+F42pfv-c0h4zNDc9)**
 
+### v1.0.1_beta
+
+- [更新] 捐赠名单
+- [适配] 允许长按通知可修改C13.1
+- [添加] 移除通知渠道不重要通知限制
+- [适配] 小布建议通知两侧对齐C13.1
+- [优化] 异步方式调用自启功能
+- [添加] 强制显示低亮无频闪护眼
+- [优化] 移除锁屏时钟红一
+
 ### v1.0.0
 
 - [更新] 捐赠名单
