@@ -8,10 +8,10 @@ order: 4
 # date: 2020-01-01
 # 一个页面可以有多个分类
 category:
-- 锁屏
+  - 锁屏
 # 一个页面可以有多个标签
 tag:
-- 锁屏
+  - 锁屏
 # 此页面会在文章列表置顶
 sticky: false
 # 此页面会出现在文章收藏中
@@ -27,7 +27,11 @@ star: false
 - Remove the clock plugin Red One
 - Set the component to be displayed in the center
 - Components use user fonts
-- Status bar operator to use user font
+
+## LockScreenCarriers
+
+- Remove statusbar carriers
+- Status bar carriers to use user font
 
 ## LockScreenButton
 

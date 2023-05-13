@@ -63,8 +63,7 @@ star: false
 
 ### Network Speed Known Issues
 
-When using dual-line network speed, the network speed in the status bar control center is 0
-
+When using dual-line network speed, the network speed in the status bar control center is 0 
 
 ## StatusBar Notify
 
@@ -113,9 +112,11 @@ When using dual-line network speed, the network speed in the status bar control 
 
 ### UI Components
 
-- Remove my device
-- Force the display of the media player
-- Notifications are aligned on both sides
+- Notifications aligned on both sides
+- force show media player
+- remove my device
+- remove multi-user icon
+- Remove control center VPN connection information
 
 ## StatusBarTile
 
