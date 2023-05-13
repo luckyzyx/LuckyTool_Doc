@@ -26,15 +26,32 @@ star: false
 
 **The beta test version is only released for testing in [TG Discussion Group](https://t.me/+F42pfv-c0h4zNDc9)**
 
-### v1.0.1_beta
+### v1.0.1
 
 - [更新] 捐赠名单
-- [适配] 允许长按通知可修改C13.1
+- [适配] 允许长按通知可修改 C13.1
 - [添加] 移除通知渠道不重要通知限制
-- [适配] 小布建议通知两侧对齐C13.1
-- [优化] 异步方式调用自启功能
+- [适配] 小布建议通知两侧对齐 C13.1
+- [优化] 自启功能调用方式
 - [添加] 强制显示低亮无频闪护眼
-- [优化] 移除锁屏时钟红一
+- [优化] 锁屏时钟红一方案
+- [优化] 减少部分页面卡顿
+- [修复] 控制中心磁贴行数异常 C13.1
+- [添加] 移除控制中心 VPN 连接信息
+- [添加] 移除锁屏状态栏运营商
+- [优化] 无线 ADB 调试判断逻辑
+- [Update] Donation list
+- [Fix] Allow long press notification to modify C13.1
+- [Add] Remove notification channel for unimportant notification limit
+- [Fix] Xiaobu recommends aligning both sides of the notification for C13.1
+- [Optimize] Autostart function call method
+- [Add] Forced display of low-brightness and no-flicker eye protection
+- [Optimize] Lock screen clock red one scheme
+- [Optimize] Reduce the freeze on some pages
+- [Fix] The number of tile rows in the control center is abnormal C13.1
+- [Add] Remove VPN connection information from Control Center
+- [Add] remove lock screen status bar operator
+- [Optimize] Wireless ADB debugging judgment logic
 
 ### v1.0.0
 
