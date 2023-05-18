@@ -31,3 +31,4 @@ star: false
 - Enable long press copy in app details
 - Click the icon in the application details to open the store APP page
 - Forced to display low brightness and no flicker eye protection
+- Enable notification importance classification

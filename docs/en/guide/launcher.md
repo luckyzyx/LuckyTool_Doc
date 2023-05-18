@@ -22,7 +22,7 @@ star: false
 # copyright: 无版权
 ---
 
-- Remove the clock plugin Red One
+- Desktop Clock Component Red One Mode
 
 ## AppBadge
 

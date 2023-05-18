@@ -35,3 +35,4 @@ star: false
 - Enable Adreno GPU Controller
 - Enable race support mode
 - Removed race mode sound effects
+- Game Assistant removes some VIP restrictions

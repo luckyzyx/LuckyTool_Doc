@@ -24,7 +24,8 @@ star: false
 
 ## LockScreenComponent
 
-- Remove the clock plugin Red One
+- lock screen clock red one mode
+- Apply to lock screen dual clock
 - Set the component to be displayed in the center
 - Components use user fonts
 

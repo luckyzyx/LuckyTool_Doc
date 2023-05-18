@@ -25,13 +25,14 @@ star: false
 # copyright: 无版权
 ---
 
-- 移除游戏滤镜Root限制
+- 移除游戏滤镜 Root 限制
 - 移除启动动画
 - 移除福利页面
 - 启用开发者页面
-- 启用X模式
-- 启用GT模式
-- 启用OnePlus特征
-- 启用Adreno GPU控制器
+- 启用 X 模式
+- 启用 GT 模式
+- 启用 OnePlus 特征
+- 启用 Adreno GPU 控制器
 - 启用赛事支持模式
 - 移除赛事模式音效
+- 移除部分 VIP 限制
