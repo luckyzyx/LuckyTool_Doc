@@ -25,4 +25,5 @@ star: false
 # copyright: 无版权
 ---
 
+- Quick unlock local installation
 - Remove dm-verity detection

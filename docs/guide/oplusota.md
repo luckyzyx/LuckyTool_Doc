@@ -25,4 +25,5 @@ star: false
 # copyright: 无版权
 ---
 
-- 移除dm-verity检测
+- 快捷解锁本地安装
+- 移除 dm-verity 检测

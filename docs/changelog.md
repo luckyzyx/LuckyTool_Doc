@@ -26,6 +26,29 @@ star: false
 
 **The beta test version is only released for testing in [TG Discussion Group](https://t.me/+F42pfv-c0h4zNDc9)**
 
+### v1.0.3
+
+- [更新] 捐赠名单
+- [优化] 移除电池高温限制
+- [添加] 电池温控添加伪装 30 度
+- [适配] 桌面时钟组件红一
+- [修复] 移除指纹按压动画异常
+- [添加] 快捷解锁本地安装
+- [修复] 自定义应用小窗异常
+- [添加] 电池通知充电时显示电量
+- [优化] 电池通知数据模式热更新
+- [适配] 自定义暗色模式列表
+- [Update] Donation list
+- [Optimize] Remove the battery high temperature limit
+- [Add] Battery temperature control added to camouflage 30 degrees
+- [Fix] Desktop Clock Component Red One
+- [Fix] Remove fingerprint press animation exception
+- [Add] quick unlock local installation
+- [Fix] Custom application small window exception
+- [Add] Battery notification shows battery level when charging
+- [Optimize] Hot update of battery notification data mode
+- [Fix] Custom dark mode list
+
 ### v1.0.2
 
 - [添加] 移除 GT 模式通知
