@@ -16,7 +16,7 @@ export default hopeTheme({
 
   repo: "https://github.com/luckyzyx/LuckyTool_Doc",
 
-  docsDir: "website/docs/", // 文档在仓库中的目录，默认为根目录
+  docsDir: "docs", // 文档在仓库中的目录，默认为根目录
 
   // 主题色
   themeColor: {
