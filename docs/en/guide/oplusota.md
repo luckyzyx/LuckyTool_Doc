@@ -27,3 +27,4 @@ star: false
 
 - Quick unlock local installation
 - Remove dm-verity detection
+- Extract system update OTA information

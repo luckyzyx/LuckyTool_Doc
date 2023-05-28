@@ -26,7 +26,7 @@ star: false
 
 **The beta test version is only released for testing in [TG Discussion Group](https://t.me/+F42pfv-c0h4zNDc9)**
 
-### v1.0.4_beta
+### v1.0.4
 
 - [更新] 捐赠名单
 - [适配] OnePlus 锁屏双时钟红一 C12.1
@@ -36,6 +36,26 @@ star: false
 - [添加] 状态栏网速默认模式用户字体
 - [移除] 移除高性能模式通知功能
 - [移除] 移除智能快速充电通知功能
+- [移除] 哈苏定制水印崩溃修复功能
+- [适配] 游戏助手移除赛事模式音效 v8.10.1
+- [适配] 云服务移除移动网络限制 v6.8.3
+- [添加] 作用域功能页添加跳转按钮
+- [添加] 提取系统更新 OTA 信息
+- [修复] 媒体音乐通知两侧对齐异常
+- [Update] Donation list
+- [Fix] OnePlus Lock Screen Dual Clock Red One C12.1
+- [Fix] OnePlus Desktop Clock Component Red One C12.1
+- [Fix] Custom dark mode list C12.1
+- [Fix] Lock screen double clock instance exception C12.1
+- [Add] Status bar internet speed default mode user font
+- [Remove] Remove high performance mode notification function
+- [Remove] Remove smart fast charging notification function
+- [Remove] Hasselblad custom watermark crash fix
+- [Fix] The game assistant removes the sound effect of the game mode v8.10.1
+- [Fix] Cloud service removes mobile network restriction v6.8.3
+- [Add] Jump button added to scope function page
+- [Add] Extract system update OTA information
+- [Fix] The alignment of both sides of the media music notification is abnormal
 
 ### v1.0.3
 

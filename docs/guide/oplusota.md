@@ -27,3 +27,4 @@ star: false
 
 - 快捷解锁本地安装
 - 移除 dm-verity 检测
+- 提取系统更新OTA信息
