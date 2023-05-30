@@ -31,7 +31,7 @@ If this page cannot solve your problem, you can go to the documentation introduc
 
 - Unable to save module data(The switch fails after restarting the module) --> Don't use CI beta frameworks(ForExample: LSPosed CI)
 
-- yukihookapi.intent.action.HOST_DATA_CHANNEL --> No feedback required, upstream API communication issues
+- ~~yukihookapi.intent.action.HOST_DATA_CHANNEL --> No feedback required, upstream API communication issues~~ ( The latest version has been fixed )
 
 - android.content.res.Resources$NotFoundException: String resource ID #0x64xxxxxx --> No feedback required，restart scope
 
@@ -40,5 +40,5 @@ If this page cannot solve your problem, you can go to the documentation introduc
 
 - When this exception occurs alone**Finding Error isSetUpMember** --> Not an exception, try restarting the scope
 
-- **解析数据异常 / Parsing data exception** --> Automatically detect and update an error, try to close the VPN to open the module,
-  no feedback required
+- ~~**解析数据异常 / Parsing data exception** --> Automatically detect and update an error, try to close the VPN to open the module,
+  no feedback required~~

@@ -31,12 +31,12 @@ star: false
 
 - 无法保存模块数据(重启模块后开关**失效**) --> 不要使用 CI 测试版框架(例如: LSPosed CI)
 
-- yukihookapi.intent.action.HOST_DATA_CHANNEL --> 无需反馈，上游API通讯问题
+- ~~yukihookapi.intent.action.HOST_DATA_CHANNEL --> 无需反馈，上游 API 通讯问题~~( 最新版已修复 )
 
 - android.content.res.Resources$NotFoundException: String resource ID #0x64xxxxxx --> 无需反馈，重启作用域
 
 - 很多功能**集体失效** --> 先把模块后台清掉，然后再重启作用域
 
-- 单独出现此异常**Finding Error isSetUpMember** --> 无需反馈，尝试重启作用域
+- **单独**出现此异常**Finding Error isSetUpMember** --> 无需反馈，尝试重启作用域
 
-- **解析数据异常** --> 自动检测更新报错，尝试关闭 VPN 打开模块，无需反馈
+- ~~**解析数据异常** --> 自动检测更新报错，尝试关闭 VPN 打开模块，无需反馈~~
