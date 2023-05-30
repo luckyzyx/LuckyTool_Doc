@@ -28,6 +28,7 @@ star: false
 
 - Remove the dot after APP update
 - Remove app shortcut badge
+- Remove work app badge
 - Remove App clone badge
 
 ## PagingComponent
