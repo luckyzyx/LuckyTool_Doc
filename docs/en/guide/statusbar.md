@@ -25,6 +25,7 @@ star: false
 ## StatusBarFunction
 
 - Double-click the status bar to lock the screen
+- Remove and click on the status bar to return to the top white list
 
 ## StatusBarClock
 

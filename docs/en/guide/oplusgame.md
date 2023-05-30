@@ -29,6 +29,7 @@ star: false
 - remove boot animation
 - Remove welfare page
 - Enable developer page
+- Custom media player support
 - Enable X-Mode
 - Enable GT mode
 - Enable One Plus Characteristic

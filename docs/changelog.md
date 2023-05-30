@@ -26,6 +26,17 @@ star: false
 
 **The beta test version is only released for testing in [TG Discussion Group](https://t.me/+F42pfv-c0h4zNDc9)**
 
+### v1.0.5_beta
+
+- [更新] 捐赠名单
+- [适配] 手机管家移除发现病毒通知 v13.1.1
+- [修复] 控制中心农历 Hook 异常
+- [添加] 移除工作 APP 徽标
+- [修复] 无线 ADB 调试 IP 异常
+- [添加] 自定义游戏助手媒体播放器支持
+- [添加] 移除点击状态栏返回顶部白名单
+- [添加] 移除息屏音乐白名单
+
 ### v1.0.4
 
 - [更新] 捐赠名单
