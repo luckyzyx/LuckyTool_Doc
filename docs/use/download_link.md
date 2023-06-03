@@ -27,22 +27,22 @@ star: false
 
 未经开发者授权，禁止私自搬运转载，提倡授之以渔，不是授之以鱼
 
-[GITHUB 页面](https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool/releases/tag/11014-1.0.5)
+[GITHUB 页面](https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool/releases/tag/11017-1.0.5)
 
-[GITHUB 下载](https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool/releases/download/11014-1.0.5/LuckyTool_v1.0.5.11014.apk)
+[GITHUB 下载](https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool/releases/download/11017-1.0.5/LuckyTool_v1.0.5.11017.apk)
 
 国内用户优先使用以下链接
 
 <!-- https://gh.ddlc.top/ -->
 
-[ddlc CDN](https://gh.ddlc.top/https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool/releases/download/11014-1.0.5/LuckyTool_v1.0.5.11014.apk)
+[ddlc CDN](https://gh.ddlc.top/https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool/releases/download/11017-1.0.5/LuckyTool_v1.0.5.11017.apk)
 
 <!-- https://proxy.zyun.vip/ -->
 
-[zyun CDN](https://proxy.zyun.vip/https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool/releases/download/11014-1.0.5/LuckyTool_v1.0.5.11014.apk)
+[zyun CDN](https://proxy.zyun.vip/https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool/releases/download/11017-1.0.5/LuckyTool_v1.0.5.11017.apk)
 
 <!-- https://ghproxy.com/ -->
 
-[ghproxy CDN](https://ghproxy.com/https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool/releases/download/11014-1.0.5/LuckyTool_v1.0.5.11014.apk)
+[ghproxy CDN](https://ghproxy.com/https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool/releases/download/11017-1.0.5/LuckyTool_v1.0.5.11017.apk)
 
 不要轻信其他平台以及用户的分享，出现问题不予处理，看到请点举报
