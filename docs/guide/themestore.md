@@ -4,7 +4,7 @@ title: 主题商店
 # 这是页面的图标
 icon: page
 # 这是侧边栏的顺序
-order: 12
+order: 13
 # 设置作者
 # author: 忆清鸣、luckyzyx
 # 设置写作时间

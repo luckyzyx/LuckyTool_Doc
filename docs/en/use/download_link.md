@@ -30,9 +30,9 @@ star: false
 Without the authorization of the developer, it is forbidden to repost without authorization, and it
 is recommended to teach them how to fish, not to teach them how to fish
 
-[GITHUB Page](https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool/releases/tag/10870-1.0.4)
+[GITHUB Page](https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool/releases/tag/11014-1.0.5)
 
-[GITHUB Download](https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool/releases/download/10870-1.0.4/LuckyTool_v1.0.4.10870.apk)
+[GITHUB Download](https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool/releases/download/11014-1.0.5/LuckyTool_v1.0.5.11014.apk)
 
 Don't trust the sharing of other platforms and users. If there is a problem, it will not be dealt
 with. If you see it, please click Report

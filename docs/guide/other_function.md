@@ -4,7 +4,7 @@ title: 其他功能
 # 这是页面的图标
 icon: page
 # 这是侧边栏的顺序
-order: 16
+order: 17
 # 设置作者
 # author: 忆清鸣、luckyzyx
 # 设置写作时间
@@ -27,4 +27,4 @@ star: false
 
 - 系统快捷入口
 - 设置模块内置快捷方式
-- 远程ADB调试
+- 远程 ADB 调试

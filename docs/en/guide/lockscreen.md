@@ -1,5 +1,5 @@
 ---
-title: LockScreenAod
+title: LockScreen
 icon: page
 order: 4
 # 设置作者
@@ -21,10 +21,6 @@ star: false
 # 你可以自定义版权信息
 # copyright: 无版权
 ---
-
-## AodRelevant
-
-- Remove screen off music whitelist
 
 ## LockScreenComponent
 

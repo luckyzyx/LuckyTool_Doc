@@ -1,7 +1,7 @@
 ---
-title: 锁屏与息屏
+title: 锁屏
 icon: page
-order: 4
+order: 5
 # 设置作者
 # author: 忆清鸣、luckyzyx
 # 设置写作时间
@@ -21,10 +21,6 @@ star: false
 # 你可以自定义版权信息
 # copyright: 无版权
 ---
-
-## 息屏相关
-
-- 移除息屏音乐白名单
 
 ## 锁屏组件
 

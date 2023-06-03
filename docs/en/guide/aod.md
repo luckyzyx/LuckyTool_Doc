@@ -1,17 +1,17 @@
 ---
-title: 截屏
+title: Aod
 icon: page
-order: 6
+order: 4
 # 设置作者
 # author: 忆清鸣、luckyzyx
 # 设置写作时间
 # date: 2020-01-01
 # 一个页面可以有多个分类
 category:
-- 模块功能
+  - 模块功能
 # 一个页面可以有多个标签
 tag:
-- 模块功能
+  - 模块功能
 # 此页面会在文章列表置顶
 sticky: false
 # 此页面会出现在文章收藏中
@@ -22,7 +22,6 @@ star: false
 # copyright: 无版权
 ---
 
-- 移除系统截屏延迟
-- 移除截屏隐私限制
-- 禁用FLAG_SECURE
-
+- [Add] Remove aod music whitelist
+- [Add] Remove the white list of notification icons on the aod
+- [Add] Set the aod style mode
