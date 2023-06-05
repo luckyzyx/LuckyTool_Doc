@@ -33,6 +33,7 @@ star: false
 - Remove apps from displaying warning dialogs on the desktop
 - Remove the USB connection dialog
 - Removed secure pay found virus dialog
+- Remove access device log dialog
 
 ## FullScreenGestures
 

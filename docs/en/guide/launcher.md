@@ -39,6 +39,7 @@ star: false
 
 ## FolderLayout
 
+- Remove folder preview background
 - Set the number of layout columns in the folder
 
 ## RecentTaskList

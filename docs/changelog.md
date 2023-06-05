@@ -26,6 +26,17 @@ star: false
 
 **The beta test version is only released for testing in [TG Discussion Group](https://t.me/+F42pfv-c0h4zNDc9)**
 
+### v1.0.6_beta
+
+- [更新] 捐赠名单
+- [修复] 部分作用域 Hook 实例异常
+- [优化] 移除电池温控限制逻辑
+- [添加] 移除文件夹预览背景
+- [添加] 移除访问设备日志对话框
+- [修复] 解锁应用自启数量限制 C12.1
+- [添加] 修复电池健康数据显示
+- [更改] 迁移捐赠名单数据
+
 ### v1.0.5
 
 - [更新] 捐赠名单

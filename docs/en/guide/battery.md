@@ -29,3 +29,4 @@ star: false
 - Enable battery screen power saving entry
 - Enable performance mode and standby optimization entry
 - Restore default battery optimization whitelist
+- Fix battery health data display
