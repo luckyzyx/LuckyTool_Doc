@@ -33,13 +33,13 @@ star: false
 
 国内用户优先使用以下链接
 
+<!-- https://hub.gitmirror.com/ -->
+
+[gitmirror CDN](https://hub.gitmirror.com/https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool/releases/download/11017-1.0.5/LuckyTool_v1.0.5.11017.apk)
+
 <!-- https://gh.ddlc.top/ -->
 
 [ddlc CDN](https://gh.ddlc.top/https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool/releases/download/11017-1.0.5/LuckyTool_v1.0.5.11017.apk)
-
-<!-- https://proxy.zyun.vip/ -->
-
-[zyun CDN](https://proxy.zyun.vip/https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool/releases/download/11017-1.0.5/LuckyTool_v1.0.5.11017.apk)
 
 <!-- https://ghproxy.com/ -->
 
