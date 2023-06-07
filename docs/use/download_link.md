@@ -46,3 +46,5 @@ star: false
 [ghproxy CDN](https://ghproxy.com/https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool/releases/download/11169-1.0.6/LuckyTool_v1.0.6.11169.apk)
 
 不要轻信其他平台以及用户的分享，出现问题不予处理，看到请点举报
+
+强烈建议在版本更新后重启一次系统，这将会避免一些系统功能无法生效的问题

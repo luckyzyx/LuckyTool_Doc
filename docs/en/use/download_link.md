@@ -36,3 +36,5 @@ is recommended to teach them how to fish, not to teach them how to fish
 
 Don't trust the sharing of other platforms and users. If there is a problem, it will not be dealt
 with. If you see it, please click Report
+
+It is strongly recommended to restart the system after the version update, which will avoid the problem that some system functions cannot take effect
