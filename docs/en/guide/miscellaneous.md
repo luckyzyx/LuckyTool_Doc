@@ -55,3 +55,4 @@ star: false
 - Remove storage limit
 - Media volume level
 - Allow untrusted touch
+- Disable dynamic refresh rate
