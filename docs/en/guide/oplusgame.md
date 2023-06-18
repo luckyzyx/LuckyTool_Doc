@@ -37,3 +37,4 @@ star: false
 - Enable race support mode
 - Removed race mode sound effects
 - Game Assistant removes some VIP restrictions
+- Remove danmaku notification whitelist

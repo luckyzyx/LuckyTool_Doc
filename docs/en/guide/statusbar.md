@@ -71,6 +71,7 @@ When using dual-line network speed, the network speed in the status bar control 
 - Remove some notifications
 - Allow long press notifications to be modifiable
 - Remove notification management restrictions
+- Remove floating window reply whitelist
 
 ## StatusBar Icon
 
@@ -119,6 +120,7 @@ When using dual-line network speed, the network speed in the status bar control 
 ### UI Components
 
 - force show media player
+- Force enable media toggle button
 - Set auto-brightness button mode
 - remove my device
 - remove multi-user icon
