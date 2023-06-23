@@ -26,6 +26,27 @@ star: false
 
 **The beta test version is only released for testing in [TG Discussion Group](https://t.me/+F42pfv-c0h4zNDc9)**
 
+### v1.0.8
+
+- [优化] 检测更新逻辑与进度条样式
+- [添加] 移除乐划锁屏图片保存水印
+- [添加] 截屏启用 PNG 保存格式
+- [修复] 提取 OTA 页面复制按钮崩溃
+- [添加] 移除信息验证码悬浮窗
+- [移除] 自定义长截图最大捕获页数
+- [添加] 移除长截图页数限制
+- [添加] 移除设置底部实验室
+- [优化] 优化权限获取与监听
+- [Optimize] Detection update logic and progress bar style
+- [Add] Remove the watermark saved on the lock screen picture of Leshua
+- [Add] Enable PNG save format for screenshots
+- [Fix] Extract OTA page copy button crash
+- [Add] Remove the information verification code floating window
+- [Remove] Customize the maximum number of captured pages for long screenshots
+- [Add] Remove the page limit for long screenshots
+- [Add] Remove Settings Bottom Lab
+- [Optimize] Optimize permission acquisition and monitoring
+
 ### v1.0.7
 
 - [添加] 捐赠列表添加搜索框

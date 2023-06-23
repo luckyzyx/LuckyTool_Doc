@@ -32,3 +32,4 @@ star: false
 - Click the icon in the application details to open the store APP page
 - Forced to display low brightness and no flicker eye protection
 - Enable notification importance classification
+- Remove Settings Bottom Lab
