@@ -26,6 +26,15 @@ star: false
 
 **The beta test version is only released for testing in [TG Discussion Group](https://t.me/+F42pfv-c0h4zNDc9)**
 
+### 1.0.9_beta
+
+- [适配] 桌面高温保护
+- [适配] KSWEB 许可证 v3.987
+- [添加] 隐藏非上网信号标签 Gen2x2
+- [添加] 打开状态栏时振动
+- [适配] 游戏助手赛事模式音效 v8.12.0
+- [添加] 主页 LCD 信息显示
+
 ### v1.0.8
 
 - [优化] 检测更新逻辑与进度条样式
