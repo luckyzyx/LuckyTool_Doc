@@ -26,16 +26,36 @@ star: false
 
 **The beta test version is only released for testing in [TG Discussion Group](https://t.me/+F42pfv-c0h4zNDc9)**
 
-### 1.0.9_beta
+### 1.0.9
 
 - [适配] 桌面高温保护限制
-- [适配] KSWEB 许可证 v3.987
+- [适配] KSWEB 许可证 v3.988
 - [添加] 隐藏非上网信号标签 Gen2x2
 - [添加] 打开状态栏时振动
 - [适配] 游戏助手赛事模式音效 v8.12.X
 - [添加] 主页设备 LCD 信息显示
 - [添加] 音量阶数最低可为 0
-- [添加] 移除控制中心白色背景
+- [添加] 设置状态栏网速双行间距
+- [添加] 自定义控制中心背景透明度
+- [添加] 自定义音量对话框背景透明度
+- [添加] 强制启用系统界面模糊特性
+- [适配] 截屏 PNG 保存格式 C13.1
+- [适配] 乐划锁屏图片水印 v40.9.16.1
+- [添加] 移除乐划锁屏视频保存水印
+- [Fix] Desktop high temperature protection limit
+- [Fix] KSWEB License v3.988
+- [Add] Hide non-Internet signal label Gen2x2
+- [Add] Vibrate when opening status bar
+- [Fix] Game assistant game mode sound effect v8.12.X
+- [Add] Home device LCD information display
+- [Add] The minimum volume level can be 0
+- [Add] Set the double line spacing of the status bar network speed
+- [Add] Custom control center background transparency
+- [Add] Custom volume dialog background transparency
+- [Add] Forced to enable system interface blur feature
+- [Fix] Screenshot PNG save format C13.1
+- [Fix] Lehua lock screen image watermark v40.9.16.1
+- [Add] Remove the watermark saved from Leshua lock screen video
 
 ### v1.0.8
 
