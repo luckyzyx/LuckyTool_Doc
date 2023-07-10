@@ -2175,6 +2175,18 @@
           "unit": "RMB"
         }
       ]
+    },
+    {
+      "name": "NANKExhr",
+      "details": [
+        {
+          "time": "20230710-200942",
+          "channel": "AliPay",
+          "money": 1,
+          "order": "2023071022001437881450048246",
+          "unit": "RMB"
+        }
+      ]
     }
   ]
 }
