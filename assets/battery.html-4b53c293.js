@@ -1,0 +1,1 @@
+import{_ as e,V as t,W as n,X as l}from"./framework-53aeaa0f.js";const _={},c=l("ul",null,[l("li",null,"启用电池健康入口"),l("li",null,"启用电池屏幕省电入口"),l("li",null,"启用性能模式与待机优化入口"),l("li",null,"恢复默认电池优化白名单"),l("li",null,"修复电池健康数据显示")],-1),o=[c];function s(r,a){return t(),n("div",null,o)}const u=e(_,[["render",s],["__file","battery.html.vue"]]);export{u as default};

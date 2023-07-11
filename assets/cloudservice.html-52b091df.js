@@ -1,0 +1,1 @@
+import{_ as t,V as c,W as o,X as e}from"./framework-53aeaa0f.js";const s={},l=e("ul",null,[e("li",null,"Remove data network restrictions")],-1),n=[l];function r(_,a){return c(),o("div",null,n)}const d=t(s,[["render",r],["__file","cloudservice.html.vue"]]);export{d as default};

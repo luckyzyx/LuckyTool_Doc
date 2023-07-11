@@ -1,0 +1,1 @@
+import{_ as t,V as n,W as l,X as e}from"./framework-53aeaa0f.js";const o={},c=e("ul",null,[e("li",null,"System shortcut entry"),e("li",null,"Set module built-in shortcuts"),e("li",null,"Remote ADB debugging")],-1),s=[c];function _(r,u){return n(),l("div",null,s)}const a=t(o,[["render",_],["__file","other_function.html.vue"]]);export{a as default};

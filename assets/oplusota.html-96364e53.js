@@ -1,0 +1,1 @@
+import{_ as l,V as t,W as o,X as e}from"./framework-53aeaa0f.js";const n={},s=e("ul",null,[e("li",null,"快捷解锁本地安装"),e("li",null,"移除 dm-verity 检测"),e("li",null,"提取系统更新OTA信息")],-1),_=[s];function c(a,r){return t(),o("div",null,_)}const i=l(n,[["render",c],["__file","oplusota.html.vue"]]);export{i as default};

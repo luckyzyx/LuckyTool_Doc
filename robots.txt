@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://luckyzyx.github.io/LuckyTool_Doc/LuckyTool_Doc/sitemap.xml

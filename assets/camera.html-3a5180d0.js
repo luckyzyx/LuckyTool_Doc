@@ -1,0 +1,1 @@
+import{_ as t,V as l,W as o,X as e}from"./framework-53aeaa0f.js";const a={},r=e("ul",null,[e("li",null,"Remove watermark word limit"),e("li",null,"Enable 10 bits color image support")],-1),c=[r];function n(s,_){return l(),o("div",null,c)}const m=t(a,[["render",n],["__file","camera.html.vue"]]);export{m as default};
